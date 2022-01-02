@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 ## :bar_chart: My Stats
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=dark)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Crimsoncad3&theme=dark)
 <details>
   <summary>:chart_with_upwards_trend: Github Profile Stats</summary>
   <br/>
