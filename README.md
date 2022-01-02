@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Hey there 👋, I am Kamal Maharana
 
-#### I am Software Engineer working at [SETU](https://setu.co)
+#### I am working as Software Engineer working at [SETU](https://setu.co)
 
 -   ✨ I’m currently working on the backend and integration of payments in my current organization.
 -   🔭 These days I'm learning backend development using GO Land and NextJS for client side applications.
@@ -70,25 +70,25 @@ Here are some ideas to get you started:
 
 
 ## :bar_chart: My Stats
-
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=dark)
 <details>
   <summary>:chart_with_upwards_trend: Github Profile Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kailasmahavarkar&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailasmahavarkar&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalMaharana&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalMaharana&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
 </details>
 
 <details>
   <summary>:fire: GitHub Streak</summary>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailasmahavarkar&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalMaharana&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
 </details>
 
 
-<a href="https://github.com/kailasmahavarkar" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kailasmahavarkar?label=Github%20Followers&style=flat">
+<a href="https://github.com/KamalMaharana" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KamalMaharana?label=Github%20Followers&style=flat">
 </a>
-<a href="https://github.com/kailasmahavarkar" target="_blank">
+<a href="https://github.com/KamalMaharana" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=kailasamahavarkar&label=Profile%20views&color=0e75b6&style=flat" alt="kailas-mahavarkar" />
 </a>
