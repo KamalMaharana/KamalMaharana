@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 -   🎯 2022 Goals: Add as many questions as I can in my [DSA-450](https://github.com/KamalMaharana/DSA-450) repository and gain high expertise in GO lang.
 -   ⚡ Fun fact: I love developing amazing things and learn new technologies.
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/kamal-maharana/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25" /> My Skills
 
